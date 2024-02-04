@@ -1,4 +1,4 @@
-# Incident Impact Prediction
+# Service Impact Prediction
 
 ## Overview
 This project focuses on predicting the impact of service incidents using data analysis and predictive modeling. The goal is to provide insights into potential impacts, allowing for proactive management of service incidents.
